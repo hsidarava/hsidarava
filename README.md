@@ -2,7 +2,7 @@
 
 ## I'm a QA Engineer
 
-## Really passionate about software quality assurance
+### Really passionate about software quality assurance
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052cc)
@@ -24,4 +24,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
 
-Follow Me
+### Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/hsidarava967)
+[![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/hanna-sidarava-085014170/)
+[![GMail](https://img.shields.io/badge/GMail-090909?style=for-the-badge&logo=gmail)](mailto:annsidarava@gmail.com)
