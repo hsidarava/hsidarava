@@ -1,8 +1,8 @@
 [![Header](https://github.com/hsidarava/hsidarava/blob/main/assets/header.png)](https://github.com/hsidarava/hsidarava/blob/main/assets/header.png)
 
-## I'm a QA Engineer
+<h2 align="center"> I'm a QA Engineer </h2>
 
-### Really passionate about software quality assurance
+<h3 align="center">Really passionate about software quality assurance</h3>
 
 ### Languages and Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=0052cc)
@@ -23,6 +23,13 @@
 ![Genymotion](https://img.shields.io/badge/-Genymotion-090909?style=for-the-badge&logo=genymotion)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css)
+
+### Testing Documentation
+- [Checklists](https://github.com/artichokeee/checklist)
+- [Test-Cases](https://github.com/artichokeee/test-cases)
+- [Bug-Reports](https://github.com/artichokeee/bug-reports)
+- [SQL Queries](https://github.com/artichokeee/SQL)
+- [Postman Collections](https://github.com/artichokeee/postman)
 
 ### Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/hsidarava967)
